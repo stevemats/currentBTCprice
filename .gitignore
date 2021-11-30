@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Installer logs and tests
+pip-log.txt
+.cache
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
